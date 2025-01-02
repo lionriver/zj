@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+/.svn/
+/.vscode/
+/**/.vs/
+/**/_build/
+/**/_runtime/
+/**/__pycache__/
+/**/build/
+/**/bin/
+/**/data/
+/**/ipch/
+/**/obj/
+/**/Debug/
+/**/Win32/
